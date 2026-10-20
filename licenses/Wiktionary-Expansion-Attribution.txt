@@ -1,0 +1,18 @@
+Wiktionary expansion data for Chinese, English and Japanese.
+Copyright: the contributors to the individual Wiktionary pages.
+License chosen: Creative Commons Attribution-ShareAlike 4.0 International.
+https://creativecommons.org/licenses/by-sa/4.0/
+Data extraction: Kaikki.org / Wiktextract, Tatu Ylonen and contributors.
+https://kaikki.org/zhwiktionary/ (Chinese/English/Japanese definitions in Chinese)
+https://kaikki.org/dictionary/Japanese/ (Japanese definitions in English)
+The sources and retrieval hashes are recorded in data/expansion-meta.json.
+Original page titles are retained per entry as zhSources / enSources (or sources).
+App source controls open the original page, whose history lists individual contributors.
+Page URLs: https://zh.wiktionary.org/wiki/{encoded title}
+           https://en.wiktionary.org/wiki/{encoded title}
+Append ?action=history to view the corresponding author history.
+Changes: selected definitions, readings and written variants; Chinese definitions and
+Chinese headwords normalized to Simplified Chinese using OpenCC; Japanese headwords
+left unchanged. Entries merged by language and lexical identity; additional entries and
+reading/spelling/Pinyin/romaji aliases indexed in SQLite. No machine translation used.
+The resulting derivatives remain under CC BY-SA 4.0. No upstream endorsement implied.

@@ -1,0 +1,27 @@
+Chinese Wiktionary Japanese definitions
+
+Copyright: Chinese Wiktionary contributors (individual page authors).
+License chosen for redistribution: Creative Commons Attribution-ShareAlike 4.0 International.
+https://creativecommons.org/licenses/by-sa/4.0/
+Full legal code: JMdict-CC-BY-SA-4.0.txt (the same CC BY-SA 4.0 license).
+
+Source encyclopedia/dictionary: https://zh.wiktionary.org/
+Per-entry page titles are retained in each Japanese record's Chinese metadata "sources" field.
+The app's "查看原词条与作者" controls open the corresponding source pages, whose history lists contributors.
+Page URL: https://zh.wiktionary.org/wiki/{URL-encoded page title}
+Authors/history: append ?action=history to that URL.
+
+Machine-readable extraction: Kaikki.org / Wiktextract, Tatu Ylonen and contributors.
+https://kaikki.org/zhwiktionary/%E6%97%A5%E8%AF%AD/
+https://kaikki.org/zhwiktionary/%E6%97%A5%E8%AA%9E/
+Wiktionary dump: 2026-10-01; extracted: 2026-10-18.
+The original extraction hashes and URLs are recorded in data/ja-zh-meta.json.
+
+Changes by Kotoba contributors: selected Japanese Chinese-language definitions;
+excluded bare kanji character descriptions; converted definition text to Simplified Chinese
+using OpenCC (opencc-python-reimplemented; conversion tool not bundled in app);
+aligned exact Japanese spellings and canonical readings with JMdict;
+added remaining Chinese Wiktionary entries; retained source page attribution.
+Japanese headwords/readings were not simplified. No machine translation was used.
+The resulting Chinese definitions and their derivatives remain under CC BY-SA 4.0.
+Neither Wikimedia, Wiktionary, Kaikki nor EDRDG endorses this application.

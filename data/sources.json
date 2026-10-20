@@ -1,0 +1,63 @@
+{
+  "jmdict": "https://github.com/scriptin/jmdict-simplified/releases/download/3.6.2%2B20261019180022/jmdict-eng-3.6.2%2B20261019180022.json.tgz",
+  "version": "3.6.2+20261019180022",
+  "counts": {
+    "en": 770611,
+    "ja": 281840,
+    "jaChinese": 120503
+  },
+  "chineseWiktionary": {
+    "ja": 281840,
+    "chineseEntries": 120503,
+    "matchedJMdictEntries": 57593,
+    "additionalWiktionaryEntries": 62910,
+    "englishFallbackEntries": 161337,
+    "wiktionaryDumpDate": "2026-10-01",
+    "extractDate": "2026-10-18",
+    "sources": [
+      "https://kaikki.org/zhwiktionary/%E6%97%A5%E8%AF%AD/",
+      "https://kaikki.org/zhwiktionary/%E6%97%A5%E8%AA%9E/"
+    ],
+    "sourceSHA256": {
+      "日語.jsonl": "0c419605684dba93cfac9507893fcb2f34fface462f3fe962f6dffd84a0c61dc",
+      "日语.jsonl": "2986139c67781323e58d9344bb81270c1387d62a89ceb4d4e1bb905945c5f9ba"
+    },
+    "license": "CC BY-SA 4.0",
+    "changes": "Extracted Chinese glosses, converted definitions to Simplified Chinese via OpenCC, aligned exact Japanese spellings and canonical readings, retained Chinese Wiktionary page titles for attribution; no machine translation."
+  },
+  "expandedDictionary": {
+    "version": "1.2.0",
+    "counts": {
+      "en": 3416168,
+      "ja": 316014,
+      "zh": 159926
+    },
+    "chineseDefinitions": {
+      "en": 3399902,
+      "ja": 120503,
+      "zh": 73627
+    },
+    "bytes": 1695350784,
+    "sources": {
+      "englishFull": "https://github.com/skywind3000/ECDICT/blob/master/stardict.7z",
+      "chineseDefinitions": "https://kaikki.org/zhwiktionary/",
+      "japaneseAdditional": "https://kaikki.org/dictionary/Japanese/",
+      "chineseEnglish": "https://www.mdbg.net/chinese/dictionary?page=cc-cedict"
+    },
+    "licenses": [
+      "MIT",
+      "CC BY-SA 4.0"
+    ],
+    "notes": "Distinct dictionary entries and phrases; no machine translation. Chinese preferred where available. Contentless FTS4 physical tables and document IDs verified.",
+    "sourceSHA256": {
+      "stardict.7z": "f370a0ecb58ada758d9dfe739db1667fd4ed87ed3055a4a7cb6c7054ecdf83d6",
+      "cedict.txt.gz": "2d42d41f75df8708d9d9b236d8ae15ecf1cef525aef8ebb8499a74cb09e1b096",
+      "漢語.jsonl": "acd415ff7f40944a2051d1588174ff8b9f329871ac2662c71fea36005e569589",
+      "汉语.jsonl": "67f463a0e63f2d577474de14dd281b152b7983bfeeb64d7d778119ff9c40b72a",
+      "中文.jsonl": "ba84d3f5fe9d2b1bfa444931de813a328004cf2adfc8624fac6ef215299003e6",
+      "英語.jsonl": "278664f590ced08e10d9fe5d6312b4d3c33af6636b06c9cf1dd42d87f47bcc69",
+      "英语.jsonl": "71fc6ab09041d098346d56b3b59d870f169737bb8ca8e42d19e4db40be607e77",
+      "Japanese-English.jsonl": "e5a3714f9a1493b993f5b381201bf5f954ae1efcdc96b26fe2f99b2ef152fd7f"
+    }
+  }
+}

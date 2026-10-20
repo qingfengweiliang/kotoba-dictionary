@@ -1,0 +1,19 @@
+{
+  "ja": 281840,
+  "chineseEntries": 120503,
+  "matchedJMdictEntries": 57593,
+  "additionalWiktionaryEntries": 62910,
+  "englishFallbackEntries": 161337,
+  "wiktionaryDumpDate": "2026-10-01",
+  "extractDate": "2026-10-18",
+  "sources": [
+    "https://kaikki.org/zhwiktionary/%E6%97%A5%E8%AF%AD/",
+    "https://kaikki.org/zhwiktionary/%E6%97%A5%E8%AA%9E/"
+  ],
+  "sourceSHA256": {
+    "日語.jsonl": "0c419605684dba93cfac9507893fcb2f34fface462f3fe962f6dffd84a0c61dc",
+    "日语.jsonl": "2986139c67781323e58d9344bb81270c1387d62a89ceb4d4e1bb905945c5f9ba"
+  },
+  "license": "CC BY-SA 4.0",
+  "changes": "Extracted Chinese glosses, converted definitions to Simplified Chinese via OpenCC, aligned exact Japanese spellings and canonical readings, retained Chinese Wiktionary page titles for attribution; no machine translation."
+}

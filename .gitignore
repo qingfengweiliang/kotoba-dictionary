@@ -1,0 +1,23 @@
+# 依赖与构建输出
+node_modules/
+dist/
+build/
+out/
+
+# 大型词库与发行包（通过 Releases 分发，不进入 Git）
+*.zip
+*.apk
+*.db
+*.db-wal
+*.db-shm
+dictionary.db
+
+# 安卓签名材料
+signing/
+
+# 临时数据与日志
+*.log
+tmp/
+temp/
+_raw/
+_docs/

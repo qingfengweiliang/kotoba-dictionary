@@ -1,0 +1,14 @@
+CC-CEDICT - Community maintained free Chinese-English dictionary.
+Copyright: CC-CEDICT contributors; published by MDBG.
+Original CEDICT: Copyright (C) 1997, 1998 Paul Andrew Denisowski.
+Source: https://www.mdbg.net/chinese/export/cedict/cedict_1_0_ts_utf-8_mdbg.txt.gz
+Project: https://www.mdbg.net/chinese/dictionary?page=cc-cedict
+Contributors and corrections: https://cc-cedict.org/editor/editor.php
+Data snapshot: 2026-10-19T05:01:26Z; upstream entries: 125301.
+License: Creative Commons Attribution-ShareAlike 4.0 International.
+https://creativecommons.org/licenses/by-sa/4.0/
+Full legal text: JMdict-CC-BY-SA-4.0.txt (same CC BY-SA 4.0 license).
+Changes: Pinyin tone digits converted to tone marks; dictionary definitions and spelling
+variants merged by Simplified Chinese headword with Chinese Wiktionary data and indexed
+for offline search. CC-CEDICT derivative material remains CC BY-SA 4.0.
+No endorsement by MDBG or upstream authors is implied.
