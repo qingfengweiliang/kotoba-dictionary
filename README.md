@@ -33,7 +33,9 @@
 
 ## 界面截图
 
-Windows 11 x64 发行包实机截图（1929 × 1295，DPR 1.5）：
+### Windows 11 x64
+
+发行包实机运行截图，1929 × 1295（DPR 1.5）：
 
 | 发现词语（首页） | 英语查词 |
 | --- | --- |
@@ -43,7 +45,17 @@ Windows 11 x64 发行包实机截图（1929 × 1295，DPR 1.5）：
 | **生词本** | **最近查词** |
 | ![生词本](docs/screenshots/windows-05-favorites.png) | ![最近查词](docs/screenshots/windows-06-history.png) |
 
-安卓版界面与桌面版同源，由系统 WebView 渲染，布局按移动尺寸适配；手机截图待补充。截图说明见 [`docs/screenshots/README.md`](docs/screenshots/README.md)。
+### Android
+
+界面与桌面版同源，由系统 WebView 渲染，按移动尺寸适配。以下为 720 × 1280 的**模拟器**截图（Android 8 / API 26，Chrome 69 WebView），不是实体手机真机截图：
+
+| 首页 | 英语查词 | 日语假名查词 |
+| --- | --- | --- |
+| <img src="docs/screenshots/android-01-home.png" width="230" alt="首页"> | <img src="docs/screenshots/android-02-english.png" width="230" alt="英语查词"> | <img src="docs/screenshots/android-03-japanese.png" width="230" alt="日语查词"> |
+| **中文拼音检索** | **生词本** | **最近查词** |
+| <img src="docs/screenshots/android-04-chinese.png" width="230" alt="中文拼音检索"> | <img src="docs/screenshots/android-05-wordbook.png" width="230" alt="生词本"> | <img src="docs/screenshots/android-06-history.png" width="230" alt="最近查词"> |
+
+图片清单、运行环境与 SHA-256 见 [`docs/screenshots/manifest.json`](docs/screenshots/manifest.json)，逐张说明见 [`docs/screenshots/README.md`](docs/screenshots/README.md)。
 
 ## 词库规模
 

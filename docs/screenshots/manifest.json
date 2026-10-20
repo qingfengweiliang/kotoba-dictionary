@@ -1,0 +1,114 @@
+{
+  "version": "1.2.0",
+  "note": "Windows 截图为发行包实机运行；Android 截图为模拟器渲染，不属于实体手机真机截图。",
+  "images": [
+    {
+      "file": "android-01-home.png",
+      "platform": "android",
+      "environment": "Android 8 API 26 emulator / Chrome 69 WebView / Kotoba 1.2.0",
+      "physical_device": false,
+      "width": 720,
+      "height": 1280,
+      "sha256": "8c791e7126d3a72cdc63d69ea85ce850b9fd5e3cd07e613a7a5d3506235e6319"
+    },
+    {
+      "file": "android-02-english.png",
+      "platform": "android",
+      "environment": "Android 8 API 26 emulator / Chrome 69 WebView / Kotoba 1.2.0",
+      "physical_device": false,
+      "width": 720,
+      "height": 1280,
+      "sha256": "d27cf81243120693e2d94156f05a1bd43d97fdf8e6d143f85cb6110bf8671b20"
+    },
+    {
+      "file": "android-03-japanese.png",
+      "platform": "android",
+      "environment": "Android 8 API 26 emulator / Chrome 69 WebView / Kotoba 1.2.0",
+      "physical_device": false,
+      "width": 720,
+      "height": 1280,
+      "sha256": "7f3810cf19dd66103a7d18e629033be9663ea2c8610cdd839d0a9294e3b73487"
+    },
+    {
+      "file": "android-04-chinese.png",
+      "platform": "android",
+      "environment": "Android 8 API 26 emulator / Chrome 69 WebView / Kotoba 1.2.0",
+      "physical_device": false,
+      "width": 720,
+      "height": 1280,
+      "sha256": "4977f9755015f368defb7dc258e473f6eba80e7d9e0d47f3bb386f0114056f7e"
+    },
+    {
+      "file": "android-05-wordbook.png",
+      "platform": "android",
+      "environment": "Android 8 API 26 emulator / Chrome 69 WebView / Kotoba 1.2.0",
+      "physical_device": false,
+      "width": 720,
+      "height": 1280,
+      "sha256": "9d5c3c4502b1deaed0374d4de2fd16de8ae0fc647e45977a6be9a6cdbd15db3a"
+    },
+    {
+      "file": "android-06-history.png",
+      "platform": "android",
+      "environment": "Android 8 API 26 emulator / Chrome 69 WebView / Kotoba 1.2.0",
+      "physical_device": false,
+      "width": 720,
+      "height": 1280,
+      "sha256": "e79179045c5943ece564d037f56db6d188b6bd34dc076fb7c63089e69ef702a5"
+    },
+    {
+      "file": "windows-01-home.png",
+      "platform": "windows",
+      "environment": "Windows 11 x64 / Kotoba 1.2.0 发行包",
+      "physical_device": true,
+      "width": 1929,
+      "height": 1295,
+      "sha256": "b2c83a7814105becacb4679ceffe375a8ce29dcd6ffef0fda3216436f3cf17e9"
+    },
+    {
+      "file": "windows-02-english.png",
+      "platform": "windows",
+      "environment": "Windows 11 x64 / Kotoba 1.2.0 发行包",
+      "physical_device": true,
+      "width": 1929,
+      "height": 1295,
+      "sha256": "87561d5630e7123fbe175c4480cbe8fc203da569344121c855d1500001c2f5a3"
+    },
+    {
+      "file": "windows-03-japanese.png",
+      "platform": "windows",
+      "environment": "Windows 11 x64 / Kotoba 1.2.0 发行包",
+      "physical_device": true,
+      "width": 1929,
+      "height": 1295,
+      "sha256": "a7ff2a8d67521016b5e6f9099dcaed892e4f81e5999d54ac427f252e5776572b"
+    },
+    {
+      "file": "windows-04-chinese.png",
+      "platform": "windows",
+      "environment": "Windows 11 x64 / Kotoba 1.2.0 发行包",
+      "physical_device": true,
+      "width": 1929,
+      "height": 1295,
+      "sha256": "3cf4283bc8d88653d8fb387f99d857bfcdc9fabd722a27fa2d0caeca9fc5452a"
+    },
+    {
+      "file": "windows-05-favorites.png",
+      "platform": "windows",
+      "environment": "Windows 11 x64 / Kotoba 1.2.0 发行包",
+      "physical_device": true,
+      "width": 1929,
+      "height": 1295,
+      "sha256": "59dfc9b2d9643a786654acd47805247505ba7429cdd1a5434df2e7eb21c310f3"
+    },
+    {
+      "file": "windows-06-history.png",
+      "platform": "windows",
+      "environment": "Windows 11 x64 / Kotoba 1.2.0 发行包",
+      "physical_device": true,
+      "width": 1929,
+      "height": 1295,
+      "sha256": "da92f476b6f2715265aa6ed6ff2e575d9582e00a74688ca73ce480a02681abcc"
+    }
+  ]
+}
