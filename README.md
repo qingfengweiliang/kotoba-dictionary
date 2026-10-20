@@ -77,7 +77,7 @@
 | --- | --- | ---: | --- |
 | Windows | `Kotoba-Windows-1.2.0.zip` | 约 853 MiB | Windows 11 x64 |
 | Android | `Kotoba-Android-1.2.0.zip`（内含 APK） | 约 640 MiB | Android 8.0 及以上 |
-| 文档 | `Kotoba-GitHub-Docs-1.2.0.zip` | 约 29 KiB | README、许可证与数据元信息 |
+| 文档 | `Kotoba-GitHub-Docs-1.2.0.zip` | 约 1.2 MiB | README、界面截图、许可证与数据元信息 |
 
 最新发行版：[`v1.2.0`](../../releases/latest)
 
