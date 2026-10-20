@@ -31,6 +31,20 @@
 
 查看原词条和作者时会打开外部浏览器，需要网络。除此之外应用本身不联网。
 
+## 界面截图
+
+Windows 11 x64 发行包实机截图（1929 × 1295，DPR 1.5）：
+
+| 发现词语（首页） | 英语查词 |
+| --- | --- |
+| ![发现词语首页](docs/screenshots/windows-01-home.png) | ![英语查词结果](docs/screenshots/windows-02-english.png) |
+| **日语查词（中文释义优先）** | **中文拼音检索** |
+| ![日语查词](docs/screenshots/windows-03-japanese.png) | ![中文拼音检索](docs/screenshots/windows-04-chinese.png) |
+| **生词本** | **最近查词** |
+| ![生词本](docs/screenshots/windows-05-favorites.png) | ![最近查词](docs/screenshots/windows-06-history.png) |
+
+安卓版界面与桌面版同源，由系统 WebView 渲染，布局按移动尺寸适配；手机截图待补充。截图说明见 [`docs/screenshots/README.md`](docs/screenshots/README.md)。
+
 ## 词库规模
 
 | 方向 | 词目／短语条数 | 具有中文释义字段的条数 |
